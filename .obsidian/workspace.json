@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oct 2026 Study Schedule.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Oct 2026 Study Schedule"
+              "title": "README"
             }
           }
         ]
@@ -167,9 +167,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "80fb418dcbcdf8cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "381d61e13e1b2567",
@@ -182,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oct 2026 Study Schedule.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -230,13 +240,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4d4114335f78b184",
   "lastOpenFiles": [
-    "README.md",
     "Oct 2026 Study Schedule.md",
+    "README.md",
     "2026Y1/06-CAR150S/06-CAR150S.md",
     "2026Y1/06-CAR150S/Untitled.md",
     "2026Y1/05-EEP150S/05-EEP150S.md",
