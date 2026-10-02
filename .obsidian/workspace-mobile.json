@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-CPUT/2026Y1/01-ELC153S/01-ELC153S.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "01-ELC153S"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c77f660300bffea9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6616643eb6a74adb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabeticalReverse",
+            "autoReveal": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "9b4739a83aa1caac",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Law",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "5d6d592023d624a8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4d5f754a9a5b5f29",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "ca00bafc195e5ece",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "913abbefce360447",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1d663765fa1a797c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b18f6c40ffe5e11c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "f96006b8f410a265",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "10167e1939abe748",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "todo"
+        }
+      },
+      {
+        "id": "46251e2578dd644c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e4314fed5960ddbc",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "00-Assets/HOME.md",
+    "04-Personal/04-Personal.base",
+    "04-Personal/Entertainment/Warframe/Warframe.md",
+    "04-Personal/Entertainment/Movies/Song Sung Blue.md",
+    "HOME.md",
+    "04-Education/CPUT/2026Y1/04-PHY157S/04-PHY157S.md",
+    "04-Education/CPUT/2026Y1/05-EEP150S/05-EEP150S.md",
+    "04-Education/CPUT/2026Y1/01-ELC153S/01-ELC153S.md",
+    "01-Capture/Slew Rate.md",
+    "01-Capture/Operational Amplifiers.md",
+    "05-Personal/Entertainment/Games/Warframe/Warframe.md",
+    "05-Personal/Entertainment/Entertainment.md",
+    "05-Personal/Entertainment/Games/Warframe/Railjack.md",
+    "05-Personal/Day Planner.md",
+    "05-Personal/Profiles.md",
+    "05-Personal/Entertainment/Games/Warframe",
+    "Journals/2026-07-21.md",
+    "Journals/2026-07-08.md",
+    "Journals/2026-07-15.md",
+    "Journals/2026-08-07.md",
+    "Journals/2026-07-20.md",
+    "_Assets/Templates/Daily Template.md",
+    "_Assets/Attachments/Recording 20260305140543.m4a",
+    "Journals/2026-05-25.md",
+    "Nmap.md",
+    "Cybersec.md",
+    "C.md",
+    "Journals/2026-07-03.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "HOME.base",
+    "Notes",
+    "Journals",
+    "_Assets/Attachments",
+    "_Assets/Templates",
+    "_Assets"
+  ]
+}

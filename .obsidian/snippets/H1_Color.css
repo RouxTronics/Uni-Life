@@ -1,0 +1,6 @@
+body {
+  --h1-color: #2563eb; /* Change this to your preferred H1 hex color */
+}
+.cm-header-1, .markdown-rendered h1 {
+  color: var(--h1-color) !important;
+}

@@ -1,0 +1,1 @@
+A function generator is ==an electronic test tool that creates repeating electrical wave signals==

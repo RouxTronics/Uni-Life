@@ -1,0 +1,16 @@
+/* source: https://forum.obsidian.md/t/add-rule-lines-to-folder-tree/19356 */
+/***************************************/
+/* add a rule line before folder files */
+/***************************************/
+
+.mod-root > .nav-folder-children {
+	margin-left: 0;
+}
+.nav-folder-children {
+	padding-left: 0;
+	margin-left: 10px;
+	/*This make files move to the right*/
+}
+.nav-folder-children .nav-folder-children {
+	border-left: 1px solid #a3a3a3;
+}

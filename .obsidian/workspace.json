@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ff508f1919af70a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d4114335f78b184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oct 2026 Study Schedule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Oct 2026 Study Schedule"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c3d438d4d16128f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f92153808064527",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5390b30de0c4b2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "617f5ffadc57fd70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#plants",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "203039d27b984d91",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "0d662407741edf6c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "a3f3ac4a72936229",
+    "type": "split",
+    "children": [
+      {
+        "id": "1de6136dd725994f",
+        "type": "tabs",
+        "dimension": 62.32558139534885,
+        "children": [
+          {
+            "id": "677211e8d7cb0265",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "082575a655112b8b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8fc09beafef8be94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026Y1/01-ELC153S/Section Chapter.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "29a754263dff8e76",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "381d61e13e1b2567",
+        "type": "tabs",
+        "dimension": 37.67441860465116,
+        "children": [
+          {
+            "id": "b7df49b2f13894ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Oct 2026 Study Schedule.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9a6b5d7ec3903fc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03-Resources/Books/Electronic Devices, Conventional Current Version/Active Filters - Chapter 15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "4d4114335f78b184",
+  "lastOpenFiles": [
+    "README.md",
+    "Oct 2026 Study Schedule.md",
+    "2026Y1/06-CAR150S/06-CAR150S.md",
+    "2026Y1/06-CAR150S/Untitled.md",
+    "2026Y1/05-EEP150S/05-EEP150S.md",
+    "2026Y1/06-CAR150S",
+    "2026Y1/01-ELC153S/01-ELC153S.md",
+    "2026Y1/04-PHY157S/04-PHY157S.md",
+    "2026Y1/01-ELC153S/Section Chapter.md",
+    "2026Y1/04-PHY157S",
+    "Tools/Tools.md",
+    "2026Y1/01-ELC153S",
+    "2026Y1/03-SDN150S/03-SDN150S.md",
+    "03-Tools/03-Tools.base",
+    "01-CPUT/01-CPUT.md",
+    "02-Journals/02-Journals.base",
+    "00-Assets/HOME.md",
+    "2026Y1/03-SDN150S/Tutorials/Tutorial 13.md",
+    "2026Y1/03-SDN150S/Tutorials/Tutorial 12.md",
+    "2026Y1/03-SDN150S/Tutorials/Tutorial 10.md",
+    "2026Y1/03-SDN150S/Tutorials/Tutorial 11.md",
+    "2026Y1/03-SDN150S/C Cheatsheet.md",
+    "01-CPUT/2026Y1/03-SDN150S/Java.md",
+    "01-CPUT/2026Y1/03-SDN150S/Hello world in Java.md",
+    "01-CPUT/2026Y1/03-SDN150S/C-Hello World.md",
+    "2026Y1/03-SDN150S/Lectures/Chapter 5.md",
+    "2026Y1/03-SDN150S/Lectures/Exercise Examples.md",
+    "01-CPUT/2026Y1/04-PHY157S/04-PHY157S.md",
+    "01-CPUT/2026Y1/04-PHY157S/Electric Fields.md",
+    "01-CPUT/2026Y1/04-PHY157S/Tut/Tut 5 - PHY157S.md",
+    "01-CPUT/2026Y1/04-PHY157S/00-Resources/Physics for Scientists and Engineers 10th Ed/Physics for Scientists and Engineers 10th Ed.md",
+    "04-Personal/04-Personal.base",
+    "04-Personal/Entertainment/Games/Warframe/Warframes/Untitled",
+    "04-Personal/Family Records/Leon Roux/Job",
+    "01-CPUT/2026Y1/05-CAR150S/attachments/Pasted image 20260816234740.png",
+    "01-CPUT/2026Y1/05-CAR150S/attachments",
+    "04-Personal/Entertainment/Games/Warframe/Weapons",
+    "04-Personal/Entertainment/Games/Warframe/attachments/Pasted image 20260814131507.png",
+    "01-CPUT/2026Y1/04-PHY157S/attachments/Pasted image 20260813122939.png",
+    "05-Education/Northlink College/EEMP1/attachments/PCB Etching Guideline-9.png",
+    "05-Education/Northlink College/EEMP1/attachments/PCB Etching Guideline-8.png",
+    "05-Education/Northlink College/EEMP1/attachments/PCB Etching Guideline.png",
+    "05-Education/Northlink College/EEMP1/attachments/PCB Etching Guideline-7.png",
+    "05-Education/Northlink College/EEMP1/attachments/PCB Etching Guideline-6.png",
+    "05-Education/Northlink College/EEMP1/attachments/PCB Etching Guideline-5.png",
+    "05-Education/Northlink College/EEMP1/attachments/PCB Etching Guideline-4.png"
+  ]
+}

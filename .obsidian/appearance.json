@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "folder-structure",
+    "H1_Color"
+  ]
+}

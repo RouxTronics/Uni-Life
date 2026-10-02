@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "newFileLocation": "root",
+  "newFileFolderPath": "01-Capture",
+  "openBehavior": "file:",
+  "showUnsupportedFiles": false
+}
