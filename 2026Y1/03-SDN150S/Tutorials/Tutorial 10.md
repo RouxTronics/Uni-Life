@@ -3,6 +3,7 @@ title: Tutorial 10
 course: SDN150S
 tags:
   - java
+  - cput/sdn150s
 ---
 # Questions 
 ## Q.1
@@ -128,34 +129,23 @@ In Java, identifier naming rules state that:
 
 ## Q.13 
 
-> What will be the output of the following code snippet? `System.out.println(5 + 10);`
+> What will be the output of the following code snippet? 
+> `System.out.println(5 + 10);`
 
 **Answer**: `15`
 ## Q.14 
 
 > What is the correct way to create an instance of a Scanner?
 
-- **1. `Scanner sc = new Scanner(System.in);`** $\rightarrow$ **True** _(This uses the `new` keyword with the standard `System.in` constructor)_
-    
-- **2. `Scanner: sc = Scanner.new(System.in);`** $\rightarrow$ **False** _(Invalid syntax for Java object creation and type declaration)_
-    
-- **3. `Scanner sc = Scanner(System.in);`** $\rightarrow$ **False** _(Missing the required `new` keyword)_
-    
-- **4. `new Scanner[System.in];`** $\rightarrow$ **False** _(Uses array instantiation syntax `[]` instead of standard object constructor parentheses `()`)_
+ `Scanner sc = new Scanner(System.in);` $\rightarrow$ **True** _(This uses the `new` keyword with the standard `System.in` constructor)_
 
-| Prompts                                 | Answers |
-| --------------------------------------- | ------- |
-| `Scanner sc = new Scanner(System.in);`  | True    |
-| `Scanner: sc = Scanner.new(System.in);` | False   |
-| `Scanner sc = Scanner(System.in);`      | False   |
-| `new Scanner[System.in];`               | False   |
+- Rest is False
+
 ## Q.15 
 
 > Which class is commonly used for input operations in Java? 
 
-- **Option D (Scanner):** Commonly used for reading formatted input (strings, integers, doubles) from standard input (`System.in`).
-    
-- **Option B (BufferedReader):** Also widely used for efficient line-by-line reading of text streams.
+**(Scanner):** Commonly used for reading formatted input (strings, integers, doubles) from standard input (`System.in`).
 
 **Answer**: `Scanner`
 
@@ -170,7 +160,6 @@ In Java, identifier naming rules state that:
 
 ## Q.17 
 > In the context of Java, what does JVM stand for?
-
 
 **Answer**: `Java Virtual Machine`
 

@@ -41,11 +41,39 @@
     ],
     "paths": [
       {
-        "name": "attachments",
-        "active": true,
+        "name": "Attachments",
+        "active": false,
         "type": "DIRECTORIES",
         "pattern": "attachments",
         "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "2028Y3",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "2027Y2",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "2026Y1/04-PHY157S/Attachments",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "2026Y1/06-CAR150S/Attachments",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

@@ -1,7 +1,6 @@
 [
   "waypoint",
   "obsidian-excalidraw-plugin",
-  "obsidian-kanban",
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "advanced-canvas",
@@ -9,14 +8,18 @@
   "table-editor-obsidian",
   "folder-notes",
   "file-explorer-plus",
-  "darlal-switcher-plus",
   "obsidian-minimal-settings",
-  "obsidian-spaced-repetition",
   "auto-card-link",
   "codeblock-customizer",
   "better-mathjax",
   "quick-latex",
   "obsidian-latex-suite",
   "obsidian-style-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "explorer-focus",
+  "obsidian-spaced-repetition",
+  "code-runner",
+  "omnisearch",
+  "better-markdown-links",
+  "advanced-rename-and-delete-handler"
 ]

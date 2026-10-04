@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ff508f1919af70a",
+        "id": "542c0e8fb31c53bd",
         "type": "tabs",
         "children": [
           {
-            "id": "4d4114335f78b184",
+            "id": "cd6329e194ea6846",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2026Y1/03-SDN150S/C/Exercise Examples.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Exercise Examples"
+            }
+          },
+          {
+            "id": "d197df046ae9e3c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flashcards/Computer Architecture Flashcards.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Computer Architecture Flashcards"
             }
           }
         ]
@@ -51,7 +75,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -65,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#plants",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,16 +111,6 @@
               },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "0d662407741edf6c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
             }
           }
         ]
@@ -149,7 +163,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026Y1/01-ELC153S/Section Chapter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,6 +190,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b4785d6b01336700",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
         ],
         "currentTab": 4
@@ -192,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2026Y1/03-SDN150S/C/Exercise Examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -241,56 +264,63 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "4d4114335f78b184",
+  "active": "cd6329e194ea6846",
   "lastOpenFiles": [
     "Oct 2026 Study Schedule.md",
-    "README.md",
-    "2026Y1/06-CAR150S/06-CAR150S.md",
-    "2026Y1/06-CAR150S/Untitled.md",
-    "2026Y1/05-EEP150S/05-EEP150S.md",
-    "2026Y1/06-CAR150S",
-    "2026Y1/01-ELC153S/01-ELC153S.md",
-    "2026Y1/04-PHY157S/04-PHY157S.md",
-    "2026Y1/01-ELC153S/Section Chapter.md",
-    "2026Y1/04-PHY157S",
+    "2026Y1/03-SDN150S/C/Exercise Examples.md",
+    "2026Y1/03-SDN150S/Java/Java.md",
+    "2026Y1/03-SDN150S/C/Chapter 5.md",
+    "Memory Errors.md",
+    "2026Y1/06-CAR150S/06-CAR150S.canvas",
+    "2026Y1/06-CAR150S/Tutorials/Tutorial 2.md",
+    "2026Y1/06-CAR150S/Tutorials/Attachments/Pasted image 20261004185544.png",
+    "2026Y1/06-CAR150S/Memory Hierarchy.md",
+    "2026Y1/06-CAR150S/Tutorials/Attachments/Pasted image 20261004185154.png",
+    "2026Y1/06-CAR150S/Tutorials/Attachments",
     "Tools/Tools.md",
-    "2026Y1/01-ELC153S",
+    "2026Y1/06-CAR150S/Computer Architecture.md",
+    "2026Y1/06-CAR150S/CPU vs GPU.md",
+    "Normal Line.md",
+    "2026Y1/06-CAR150S/GPU - Graphics Processing Unit.md",
+    "Flashcards/Computer Architecture Flashcards.md",
+    "2026Y1/06-CAR150S/CPU - Central Processing Unit.md",
+    "2026Y1/06-CAR150S/Tutorials/Tutorial 1.md",
+    "2026Y1/2026Y1.md",
+    "2026Y1/04-PHY157S/04-PHY157S.canvas",
+    "2026Y1/03-SDN150S/03-SDN150S.canvas",
+    "2026Y1/04-PHY157S/The Nature of Light and the Principles of Ray Optics.md",
+    "2026Y1/04-PHY157S/Snell's Law.md",
+    "2026Y1/04-PHY157S/Attachments/Pasted image 20261003192945.png",
+    "2026Y1/04-PHY157S/Attachments/Pasted image 20261003192930.png",
+    "2026Y1/02-EMA156S/02-EMA156S.canvas",
+    "2026Y1/01-ELC153S/01-ELC153S.canvas",
+    "2026Y1/04-PHY157S/Attachments/Pasted image 20261003165507.png",
+    "2026Y1/05-EEP150S/05-EEP150S.canvas",
+    "2026Y1/02-EMA156S/Complex Numbers.md",
+    "2026Y1/01-ELC153S/01-ELC153S.md",
+    "2026Y1/02-EMA156S/02-EMA156S.md",
     "2026Y1/03-SDN150S/03-SDN150S.md",
-    "03-Tools/03-Tools.base",
-    "01-CPUT/01-CPUT.md",
-    "02-Journals/02-Journals.base",
-    "00-Assets/HOME.md",
-    "2026Y1/03-SDN150S/Tutorials/Tutorial 13.md",
-    "2026Y1/03-SDN150S/Tutorials/Tutorial 12.md",
-    "2026Y1/03-SDN150S/Tutorials/Tutorial 10.md",
-    "2026Y1/03-SDN150S/Tutorials/Tutorial 11.md",
-    "2026Y1/03-SDN150S/C Cheatsheet.md",
-    "01-CPUT/2026Y1/03-SDN150S/Java.md",
-    "01-CPUT/2026Y1/03-SDN150S/Hello world in Java.md",
-    "01-CPUT/2026Y1/03-SDN150S/C-Hello World.md",
-    "2026Y1/03-SDN150S/Lectures/Chapter 5.md",
-    "2026Y1/03-SDN150S/Lectures/Exercise Examples.md",
-    "01-CPUT/2026Y1/04-PHY157S/04-PHY157S.md",
-    "01-CPUT/2026Y1/04-PHY157S/Electric Fields.md",
-    "01-CPUT/2026Y1/04-PHY157S/Tut/Tut 5 - PHY157S.md",
-    "01-CPUT/2026Y1/04-PHY157S/00-Resources/Physics for Scientists and Engineers 10th Ed/Physics for Scientists and Engineers 10th Ed.md",
-    "04-Personal/04-Personal.base",
-    "04-Personal/Entertainment/Games/Warframe/Warframes/Untitled",
-    "04-Personal/Family Records/Leon Roux/Job",
-    "01-CPUT/2026Y1/05-CAR150S/attachments/Pasted image 20260816234740.png",
-    "01-CPUT/2026Y1/05-CAR150S/attachments",
-    "04-Personal/Entertainment/Games/Warframe/Weapons",
-    "04-Personal/Entertainment/Games/Warframe/attachments/Pasted image 20260814131507.png",
-    "01-CPUT/2026Y1/04-PHY157S/attachments/Pasted image 20260813122939.png",
-    "05-Education/Northlink College/EEMP1/attachments/PCB Etching Guideline-9.png",
-    "05-Education/Northlink College/EEMP1/attachments/PCB Etching Guideline-8.png",
-    "05-Education/Northlink College/EEMP1/attachments/PCB Etching Guideline.png",
-    "05-Education/Northlink College/EEMP1/attachments/PCB Etching Guideline-7.png",
-    "05-Education/Northlink College/EEMP1/attachments/PCB Etching Guideline-6.png",
-    "05-Education/Northlink College/EEMP1/attachments/PCB Etching Guideline-5.png",
-    "05-Education/Northlink College/EEMP1/attachments/PCB Etching Guideline-4.png"
+    "2026Y1/04-PHY157S/04-PHY157S.md",
+    "2026Y1/06-CAR150S/06-CAR150S.md",
+    "2026Y1/05-EEP150S/05-EEP150S.md",
+    "2026Y1/04-PHY157S/Attachments/Drawing 2026-10-03 16.07.52.excalidraw.md",
+    "2026Y1/04-PHY157S/Attachments/Pasted image 20261003160734.png",
+    "2026Y1/04-PHY157S/Attachments/Pasted image 20261003160715.png",
+    "2026Y1/04-PHY157S/Attachments/Pasted image 20261003160650.png",
+    "2026Y1/04-PHY157S/Attachments/Pasted image 20261003145842.png",
+    "2026Y1/04-PHY157S/Attachments/Pasted image 20261003143309.png",
+    "2026Y1/04-PHY157S/Attachments",
+    "Flashcards/Java",
+    "Flashcards",
+    "2026Y1/03-SDN150S/Java",
+    "2026Y1/03-SDN150S/C",
+    "Untitled 2",
+    "Untitled 1",
+    "Tools/Oscilloscopes",
+    "Assets"
   ]
 }

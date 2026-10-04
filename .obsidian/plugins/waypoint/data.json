@@ -1,18 +1,18 @@
 {
   "waypointFlag": "%% W %%",
   "landmarkFlag": "%% L %%",
-  "stopScanAtFolderNotes": false,
+  "stopScanAtFolderNotes": true,
   "showFolderNotes": false,
   "showNonMarkdownFiles": false,
-  "foldersOnTop": true,
+  "foldersOnTop": false,
   "debugLogging": false,
-  "useWikiLinks": true,
+  "useWikiLinks": false,
   "useFrontMatterTitle": false,
   "showEnclosingNote": false,
   "folderNoteType": "INSIDE_FOLDER",
   "folderNoteFilename": "index",
   "ignorePaths": [
-    "attachments"
+    "Attachments"
   ],
   "useSpaces": false,
   "numSpaces": 2

@@ -8,7 +8,15 @@ favicon: https://en.wikipedia.org/static/favicon/wikipedia.ico
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/A_plus_bi.svg/1280px-A_plus_bi.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail
 ```
 
-A Complex Number is a combination of a **[[Real Number]]** and an **[[Imaginary Number]]**.
+A Complex Number is a combination of a **[[Real Number]]** and an **[[Imaginary Number]]**
+
+# Important Formulas 
+
+| Equation | Description |
+| -------- | ----------- |
+|          |             |
+# Problems 
+
 # Resources 
 >[Gilbert Mubadi Tshitenge](https://www.youtube.com/@tshitenge4820)
 
@@ -23,3 +31,5 @@ A Complex Number is a combination of a **[[Real Number]]** and an **[[Imaginary
 | 7   | [CN Problem 3 b](https://www.youtube.com/watch?v=y9LHjhOXLm0)                                 | 10:22 |
 | 8   | [CN Problem 4 a](https://www.youtube.com/watch?v=01MUBAb0LAk)                                 | 14:47 |
 | 9   | [CN Problem 4 b](https://www.youtube.com/watch?v=lt1aw6VrBWE)                                 | 20:17 |
+
+

@@ -3,7 +3,6 @@ title: Tutorial 11 - SDN150S
 type: Tutorial
 categories: SDN150S
 tags:
-  - java
 ---
 # Overview 
 

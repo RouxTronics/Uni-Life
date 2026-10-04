@@ -1,0 +1,1 @@
+Computer architecture is ==the conceptual design and operational structure that defines how a computer's hardware and software components organize and interact to execute programs efficiently==

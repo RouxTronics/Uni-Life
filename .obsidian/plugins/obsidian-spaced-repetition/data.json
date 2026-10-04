@@ -1,7 +1,9 @@
 {
   "settings": {
     "flashcardTags": [
-      "#flashcards"
+      "#cards/java",
+      "#cards/computer",
+      "#cards/test"
     ],
     "flashcardTagsToIgnore": [],
     "convertFoldersToDecks": false,
@@ -34,7 +36,12 @@
     ],
     "noteTagsToIgnore": [],
     "noteFoldersToIgnore": [
-      "**/*.excalidraw.md"
+      "**/*.excalidraw.md",
+      "2026Y1",
+      "2027Y2",
+      "2028Y8",
+      "Tools",
+      "Assets"
     ],
     "openRandomNote": false,
     "autoNextNote": false,
@@ -48,8 +55,8 @@
     "initiallyExpandAllSubdecksInTree": true,
     "showContextInCards": true,
     "showIntervalInReviewButtons": true,
-    "flashcardHeightPercentage": 60,
-    "flashcardWidthPercentage": 60,
+    "flashcardHeightPercentage": 60.027472527472526,
+    "flashcardWidthPercentage": 60.02928257686676,
     "flashcardHeightPercentageMobile": 100,
     "flashcardWidthPercentageMobile": 100,
     "flashcardAgainText": "Again",
@@ -80,7 +87,7 @@
     "preferredDateFormatForNoteReviewQueue": "MMM DD YYYY",
     "preferredLocale": "-"
   },
-  "buryDate": "2026-10-02",
+  "buryDate": "2026-10-03",
   "buryList": [],
   "historyDeck": null,
   "scheduleData": {
