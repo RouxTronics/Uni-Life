@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026Y1/03-SDN150S/C/Exercise Examples.md",
+                "file": "Normal Line.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Exercise Examples"
+              "title": "Normal Line"
             }
           },
           {
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026Y1/03-SDN150S/C/Exercise Examples.md",
+                "file": "Normal Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -270,8 +270,11 @@
   },
   "active": "cd6329e194ea6846",
   "lastOpenFiles": [
-    "Oct 2026 Study Schedule.md",
+    "README.md",
+    "Normal Line.md",
+    "2026Y1/2026Y1.md",
     "2026Y1/03-SDN150S/C/Exercise Examples.md",
+    "Oct 2026 Study Schedule.md",
     "2026Y1/03-SDN150S/Java/Java.md",
     "2026Y1/03-SDN150S/C/Chapter 5.md",
     "Memory Errors.md",
@@ -284,12 +287,10 @@
     "Tools/Tools.md",
     "2026Y1/06-CAR150S/Computer Architecture.md",
     "2026Y1/06-CAR150S/CPU vs GPU.md",
-    "Normal Line.md",
     "2026Y1/06-CAR150S/GPU - Graphics Processing Unit.md",
     "Flashcards/Computer Architecture Flashcards.md",
     "2026Y1/06-CAR150S/CPU - Central Processing Unit.md",
     "2026Y1/06-CAR150S/Tutorials/Tutorial 1.md",
-    "2026Y1/2026Y1.md",
     "2026Y1/04-PHY157S/04-PHY157S.canvas",
     "2026Y1/03-SDN150S/03-SDN150S.canvas",
     "2026Y1/04-PHY157S/The Nature of Light and the Principles of Ray Optics.md",
@@ -307,7 +308,6 @@
     "2026Y1/04-PHY157S/04-PHY157S.md",
     "2026Y1/06-CAR150S/06-CAR150S.md",
     "2026Y1/05-EEP150S/05-EEP150S.md",
-    "2026Y1/04-PHY157S/Attachments/Drawing 2026-10-03 16.07.52.excalidraw.md",
     "2026Y1/04-PHY157S/Attachments/Pasted image 20261003160734.png",
     "2026Y1/04-PHY157S/Attachments/Pasted image 20261003160715.png",
     "2026Y1/04-PHY157S/Attachments/Pasted image 20261003160650.png",
